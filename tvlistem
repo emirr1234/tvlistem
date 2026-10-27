@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CANLI TV",TRT 1 HD
+https://akamaihd.net
+
+#EXTINF:-1 group-title="CANLI TV",TRT SPOR HD
+https://akamaihd.net
+
+#EXTINF:-1 group-title="FİLMLER",Örnek Film 1 (MP4 Formatı)
+http://googleapis.com
