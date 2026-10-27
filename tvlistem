@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Ulusal Kanallar",Show TV
-https://yayin.tvfrekanslar.com/api/bot/alfa?action=m3u8&url=aHR0cHM6Ly95YXlpbjIuY2FubGl0di5mdW4vbGl2ZS9zaG93dHYuc3RyZWFtL2NodW5rbGlzdF93MTQ5OTgwMjEyLm0zdTg%2FaGFzaD1lZTIyMmQxZTM5ZGUwMmQzM2VjZDE5YWNjY2JhMDhmOA%3D%3D&ext=.m3u8
 
-#EXTINF:-1 group-title="Ulusal Kanallar",TRT 1
-https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8vcguncns105&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 group-title="Hazır Sinema Listeleri",Free-TV Sinema & Belgesel Arşivi
+https://githubusercontent.com
+
+#EXTINF:-1 group-title="Hazır Sinema Listeleri",Loveris Film Kitaplığı (Türkçe Seçenekli)
+https://githubusercontent.com
+
+#EXTINF:-1 group-title="Hazır Sinema Listeleri",Sadece Kamu Malı Klasik Filmler (Yabancı)
+https://githubusercontent.com
