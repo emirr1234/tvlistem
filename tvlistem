@@ -1,10 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Hazır Sinema Listeleri",Free-TV Sinema & Belgesel Arşivi
-https://githubusercontent.com
-
-#EXTINF:-1 group-title="Hazır Sinema Listeleri",Loveris Film Kitaplığı (Türkçe Seçenekli)
-https://githubusercontent.com
-
-#EXTINF:-1 group-title="Hazır Sinema Listeleri",Sadece Kamu Malı Klasik Filmler (Yabancı)
-https://githubusercontent.com
+#EXTINF:5959,e1.mp4
+#EXTVLCOPT:network-caching=1000
+https://dn710803.ca.archive.org/0/items/video_fullhdcanlitv_E1/e1.mp4
