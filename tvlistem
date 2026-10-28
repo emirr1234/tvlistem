@@ -1,10 +1,1 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-name="TRT 1 HD" group-title="Ulusal Kanallar" tvg-logo="https://wikimedia.org",TRT 1 HD
-https://trt.com.tr
-
-#EXTINF:-1 tvg-name="ATV HD" group-title="Ulusal Kanallar" tvg-logo="https://wikimedia.org",ATV HD
-https://daioncdn.net
-
-#EXTINF:-1 tvg-name="YABAN TV" group-title="Belgesel & Yaşam" tvg-logo="https://yabantv.com",YABAN TV
-https://daioncdn.net
