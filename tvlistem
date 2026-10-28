@@ -1,4 +1,10 @@
 #EXTM3U
-#EXTINF:13698,index-v1-a1.m3u8
-#EXTVLCOPT:network-caching=1000
-https://box-1097-y.vmbox.space/hls/xqx2o7ndpzokjiqbthkcpkqnuulsql4b3dgcr6d4zy4ioiavo42z53jcsaaa/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1 HD" group-title="Ulusal Kanallar" tvg-logo="https://wikimedia.org",TRT 1 HD
+https://trt.com.tr
+
+#EXTINF:-1 tvg-name="ATV HD" group-title="Ulusal Kanallar" tvg-logo="https://wikimedia.org",ATV HD
+https://daioncdn.net
+
+#EXTINF:-1 tvg-name="YABAN TV" group-title="Belgesel & Yaşam" tvg-logo="https://yabantv.com",YABAN TV
+https://daioncdn.net
